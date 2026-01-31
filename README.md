@@ -1,7 +1,7 @@
 # TLI-Creator-Form-Auto-Update
 Auto Update Scripts for TLI Creator Form
 
-Open your copy of the template form and select Extensions -> Apps Scripts
+Open your copy of the template form on **Google Sheets** and select Extensions -> Apps Scripts
 
 <img width="288" height="154" alt="image" src="https://github.com/user-attachments/assets/a4f37c75-a1db-40fc-9e62-114b5b7479e4" />
 
