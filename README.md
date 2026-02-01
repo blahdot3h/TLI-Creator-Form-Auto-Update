@@ -27,6 +27,9 @@ Create your Application with the redirect URL just set to localhost and save you
 <img width="1051" height="759" alt="image" src="https://github.com/user-attachments/assets/d99d37b0-d623-45e1-aafe-fff09403acec" />
 
 
+<img width="255" height="305" alt="image" src="https://github.com/user-attachments/assets/e25bf031-7f77-450d-b2ca-08137a8f8aa2" />
+
+
 <img width="884" height="635" alt="image" src="https://github.com/user-attachments/assets/8838cb96-0073-465b-b024-d7cb0356efcf" />
 
 CLIENT_ID is pulled from [Twitch Dev](https://dev.twitch.tv/)
